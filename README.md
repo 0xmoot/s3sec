@@ -4,7 +4,7 @@ Test AWS S3 buckets for read/write/delete access
 
 This tool was developed to quickly test a list of s3 buckets for public read, write and delete access for the purposes of penetration testing on bug bounty programs.
 
-![Screenshot](https://0xmoot.com/git/screenshots/s3sec.png)
+![Screenshot](https://0xmoot.com/git/screenshots/s3sec2.png)
 
 Found a bug bounty using this tool? 
 Feel free to add me as a collaborator: [@0xmoot](https://0xmoot.com) :)
