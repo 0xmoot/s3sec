@@ -1,3 +1,12 @@
-This S3 instance is insecure
-
+Tested with s3sec by 0xmoot
 https://github.com/0xmoot/s3sec
+
+0xmoot.com
+twitter.com/0xmoot
+
+This S3 instance is insecure. Learn more about securing your S3 bucket:
+https://aws.amazon.com/premiumsupport/knowledge-center/secure-s3-resources/
+
+Disclaimer: The developers of s3sec assume no liability and are not responsible 
+for any misuse or damage caused by the s3sec tool. The tool is provided as-is
+for educational and bug bounty purposes.

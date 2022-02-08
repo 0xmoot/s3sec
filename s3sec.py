@@ -62,12 +62,6 @@ def http_get(url):
     
     return data
 
-def main_domain(domain):
-    if(domain.find(".")>=0):
-        s = domain.split(".")
-        domain = s[len(s)-1]
-    return domain
-
 added = []
 def process(url, protocol="https"):
 
